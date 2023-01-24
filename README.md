@@ -5,9 +5,7 @@
 
 ### App Walk-though
 
-<img src="YOUR_GIF_PATH" width=200><br>
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://github.com/Ritaosi/IntroduceStudent/blob/main/ezgif.com-gif-maker.gif" width=200><br>
 
 ### Required Features
 
