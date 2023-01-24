@@ -2,7 +2,7 @@
 
 ### App Description
 
-
+ This app helps us to introduce ourselves by accepting various user inputs, such as segmented controls, text fields, and switches. The app also utilizes a stepper to increase and decrease the number of pets. This app was built using the basics of Xcode and swift. 
 ### App Walk-though
 
 <img src="https://github.com/Ritaosi/IntroduceStudent/blob/main/ezgif.com-gif-maker.gif" width=200><br>
